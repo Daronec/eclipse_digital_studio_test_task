@@ -56,44 +56,44 @@
       "description": "1 января на HBO Max состоялась мировая премьера специального эпизода Гарри Поттер 20 лет спустя: Возвращение в Хогвартс, но как такового возращения не произошло. Спешу разочаровать всех поклонников франшизы - эпизод очень и очень средней. Пока смотрел, несколько раз ловил себя на мысли, что мне хочется поскорее, чтобы он закончился. Но нажать на кнопку перемотки всё же рука не поднялась.",
       "image": "https://disk.yandex.kz/i/hRB40h-do9w9VA"
     },
-        {
+    {
       "id": 3,
       "title": "Первое разочарование года - обзор на новый эпизод Гарри Поттер 20 лет спустя",
       "description": "1 января на HBO Max состоялась мировая премьера специального эпизода Гарри Поттер 20 лет спустя: Возвращение в Хогвартс, но как такового возращения не произошло. Спешу разочаровать всех поклонников франшизы - эпизод очень и очень средней. Пока смотрел, несколько раз ловил себя на мысли, что мне хочется поскорее, чтобы он закончился. Но нажать на кнопку перемотки всё же рука не поднялась.",
       "image": "https://disk.yandex.kz/i/hRB40h-do9w9VA"
     },
-        {
+    {
       "id": 4,
       "title": "Первое разочарование года - обзор на новый эпизод Гарри Поттер 20 лет спустя",
       "description": "1 января на HBO Max состоялась мировая премьера специального эпизода Гарри Поттер 20 лет спустя: Возвращение в Хогвартс, но как такового возращения не произошло. Спешу разочаровать всех поклонников франшизы - эпизод очень и очень средней. Пока смотрел, несколько раз ловил себя на мысли, что мне хочется поскорее, чтобы он закончился. Но нажать на кнопку перемотки всё же рука не поднялась.",
       "image": "https://disk.yandex.kz/i/hRB40h-do9w9VA"
-    },
+    }
   ],
   "photos": [
     {
       "id": 1,
       "photo": "https://disk.yandex.kz/i/lq4eKs7UzRXYiA",
-      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
     },
-        {
+    {
       "id": 2,
       "photo": "https://disk.yandex.kz/i/_rg4A6Rd7u8eeA",
-      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
     },
-        {
+    {
       "id": 3,
       "photo": "https://disk.yandex.kz/i/ig7-8MxmZ_pLwQ",
-      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
     },
-        {
+    {
       "id": 4,
       "photo": "https://disk.yandex.kz/i/szLCAGgv_oJMcg",
-      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
     },
-            {
+    {
       "id": 5,
       "photo": "https://disk.yandex.kz/i/23vwseR__S5GHg",
-      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
     }
   ]
 }
